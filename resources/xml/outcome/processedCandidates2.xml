@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<candidates>
+  <candidate>
+    <fullName>Mostovenko N. N.</fullName>
+    <positionTitle>Senior</positionTitle>
+    <experience>7</experience>
+    <skills>
+      <skill>HTML</skill>
+      <skill>SQL</skill>
+    </skills>
+    <fit>false</fit>
+    <refusalCause>[no JavaScript skill]</refusalCause>
+  </candidate>
+  <candidate>
+    <fullName>Petrova K. K.</fullName>
+    <positionTitle>Senior</positionTitle>
+    <experience>2</experience>
+    <skills>
+      <skill>HTML</skill>
+      <skill>SQL</skill>
+      <skill>JavaScript</skill>
+    </skills>
+    <fit>false</fit>
+    <refusalCause>[got:2 experience, needed:5]</refusalCause>
+  </candidate>
+  <candidate>
+    <fullName>Testov K. T.</fullName>
+    <positionTitle>Senior</positionTitle>
+    <experience>5</experience>
+    <skills>
+      <skill>HTML</skill>
+      <skill>SQL</skill>
+      <skill>JavaScript</skill>
+    </skills>
+    <fit>true</fit>
+  </candidate>
+  <candidate>
+    <fullName>Kylibin A. A.</fullName>
+    <positionTitle>Senior</positionTitle>
+    <experience>10</experience>
+    <skills>
+      <skill>HTML</skill>
+      <skill>SQL</skill>
+      <skill>JavaScript</skill>
+    </skills>
+    <fit>false</fit>
+    <refusalCause>There is no free position any more</refusalCause>
+  </candidate>
+  <candidate>
+    <fullName>Petrov A. B.</fullName>
+    <positionTitle>Middle</positionTitle>
+    <experience>3</experience>
+    <skills>
+      <skill>HTML</skill>
+    </skills>
+    <fit>false</fit>
+    <refusalCause>[no SQL skill, no JavaScript skill]</refusalCause>
+  </candidate>
+  <candidate>
+    <fullName>Egorov E. E.</fullName>
+    <positionTitle>Middle</positionTitle>
+    <experience>1</experience>
+    <skills>
+      <skill>HTML</skill>
+      <skill>SQL</skill>
+      <skill>JavaScript</skill>
+    </skills>
+    <fit>false</fit>
+    <refusalCause>[got:1 experience, needed:2]</refusalCause>
+  </candidate>
+  <candidate>
+    <fullName>Afanacev B. B.</fullName>
+    <positionTitle>Middle</positionTitle>
+    <experience>4</experience>
+    <skills>
+      <skill>HTML</skill>
+      <skill>SQL</skill>
+      <skill>JavaScript</skill>
+    </skills>
+    <fit>true</fit>
+  </candidate>
+  <candidate>
+    <fullName>Batienko T. T.</fullName>
+    <positionTitle>Junior</positionTitle>
+    <experience>1</experience>
+    <skills>
+      <skill>HTML</skill>
+      <skill>SQL</skill>
+      <skill>JavaScript</skill>
+    </skills>
+    <fit>true</fit>
+  </candidate>
+  <candidate>
+    <fullName>Student</fullName>
+    <positionTitle>Student</positionTitle>
+    <experience>0</experience>
+    <yearOfStudy>4</yearOfStudy>
+    <skills>
+      <skill>HTML</skill>
+    </skills>
+    <fit>false</fit>
+    <refusalCause>[got:4 yearOfStudy, needed:5]</refusalCause>
+  </candidate>
+  <candidate>
+    <fullName>Denisov D. D.</fullName>
+    <positionTitle>Student</positionTitle>
+    <experience>0</experience>
+    <yearOfStudy>5</yearOfStudy>
+    <skills>
+      <skill>HTML</skill>
+      <skill>SQL</skill>
+    </skills>
+    <fit>true</fit>
+  </candidate>
+</candidates>

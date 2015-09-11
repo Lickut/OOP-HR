@@ -1,0 +1,23 @@
+<positions>
+	<totalAmount>3</totalAmount>
+	<position>
+		<positionTitle>Middle</positionTitle>
+		<priority>1</priority>
+		<amount>3</amount>
+	</position>
+	<position>
+		<positionTitle>Senior</positionTitle>
+		<priority>2</priority>
+		<amount>3</amount>
+	</position>
+	<position>
+		<positionTitle>Junior</positionTitle>
+		<priority>3</priority>
+		<amount>3</amount>
+	</position>
+	<position>
+		<positionTitle>Student</positionTitle>
+		<priority>4</priority>
+		<amount>3</amount>
+	</position>
+</positions>

@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<candidates>
+  <candidate>
+    <fullName>Afanacev B. B.</fullName>
+    <positionTitle>Middle</positionTitle>
+    <experience>4</experience>
+    <skills>
+      <skill>HTML</skill>
+      <skill>SQL</skill>
+      <skill>JavaScript</skill>
+    </skills>
+    <fit>true</fit>
+  </candidate>
+  <candidate>
+    <fullName>Testov K. T.</fullName>
+    <positionTitle>Senior</positionTitle>
+    <experience>5</experience>
+    <skills>
+      <skill>HTML</skill>
+      <skill>SQL</skill>
+      <skill>JavaScript</skill>
+    </skills>
+    <fit>true</fit>
+  </candidate>
+  <candidate>
+    <fullName>Kylibin A. A.</fullName>
+    <positionTitle>Senior</positionTitle>
+    <experience>10</experience>
+    <skills>
+      <skill>HTML</skill>
+      <skill>SQL</skill>
+      <skill>JavaScript</skill>
+    </skills>
+    <fit>true</fit>
+  </candidate>
+</candidates>

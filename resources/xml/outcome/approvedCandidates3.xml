@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<candidates>
+  <candidate>
+    <fullName>Denisov D. D.</fullName>
+    <positionTitle>Student</positionTitle>
+    <experience>0</experience>
+    <yearOfStudy>5</yearOfStudy>
+    <skills>
+      <skill>HTML</skill>
+      <skill>SQL</skill>
+    </skills>
+    <fit>true</fit>
+  </candidate>
+  <candidate>
+    <fullName>Batienko T. T.</fullName>
+    <positionTitle>Junior</positionTitle>
+    <experience>1</experience>
+    <skills>
+      <skill>HTML</skill>
+      <skill>SQL</skill>
+      <skill>JavaScript</skill>
+    </skills>
+    <fit>true</fit>
+  </candidate>
+</candidates>

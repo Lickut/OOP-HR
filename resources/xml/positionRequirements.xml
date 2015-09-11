@@ -1,0 +1,36 @@
+<positionRequirementsList>
+	<candidate>
+		<positionTitle>Middle</positionTitle>
+		<experience>2</experience>
+		<skills>
+			<skill>HTML</skill>
+			<skill>SQL</skill>
+			<skill>JavaScript</skill>
+		</skills>
+	</candidate>
+	<candidate>
+		<positionTitle>Senior</positionTitle>
+		<experience>5</experience>
+		<skills>
+			<skill>HTML</skill>
+			<skill>SQL</skill>
+			<skill>JavaScript</skill>
+		</skills>
+	</candidate>
+	<candidate>
+		<positionTitle>Junior</positionTitle>
+		<experience>0</experience>
+		<skills>
+			<skill>HTML</skill>
+			<skill>SQL</skill>
+		</skills>
+	</candidate>
+	<candidate>
+		<positionTitle>Student</positionTitle>
+		<experience>0</experience>
+		<yearOfStudy>5</yearOfStudy>
+		<skills>
+			<skill>HTML</skill>
+		</skills>
+	</candidate>
+</positionRequirementsList>

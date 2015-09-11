@@ -1,0 +1,98 @@
+<candidatesList>
+	<candidate>
+		<fullName>Ivanov I. I.</fullName>
+		<positionTitle>Student</positionTitle>
+		<experience>0</experience>
+		<yearOfStudy>4</yearOfStudy>
+		<skills>
+			<skill>HTML</skill>
+		</skills>
+	</candidate>
+	<candidate>
+		<positionTitle>Student</positionTitle>
+		<fullName>Denisov D. D.</fullName>
+		<experience>0</experience>
+		<yearOfStudy>5</yearOfStudy>
+		<skills>
+			<skill>HTML</skill>
+			<skill>SQL</skill>
+		</skills>
+	</candidate>
+	<candidate>
+		<positionTitle>Middle</positionTitle>
+		<fullName>Petrov A. B.</fullName>
+		<experience>3</experience>
+		<skills>
+			<skill>HTML</skill>
+		</skills>
+	</candidate>
+	<candidate>
+		<positionTitle>Middle</positionTitle>
+		<fullName>Egorov E. E.</fullName>
+		<experience>1</experience>
+		<skills>
+			<skill>HTML</skill>
+			<skill>SQL</skill>
+			<skill>JavaScript</skill>
+		</skills>
+	</candidate>
+	<candidate>
+		<positionTitle>Middle</positionTitle>
+		<fullName>Afanacev B. B.</fullName>
+		<experience>4</experience>
+		<skills>
+			<skill>HTML</skill>
+			<skill>SQL</skill>
+			<skill>JavaScript</skill>
+		</skills>
+	</candidate>
+	<candidate>
+		<positionTitle>Senior</positionTitle>
+		<fullName>Mostovenko N. N.</fullName>
+		<experience>7</experience>
+		<skills>
+			<skill>HTML</skill>
+			<skill>SQL</skill>
+		</skills>
+	</candidate>
+	<candidate>
+		<positionTitle>Senior</positionTitle>
+		<fullName>Petrova K. K.</fullName>
+		<experience>2</experience>
+		<skills>
+			<skill>HTML</skill>
+			<skill>SQL</skill>
+			<skill>JavaScript</skill>
+		</skills>
+	</candidate>
+	<candidate>
+		<positionTitle>Senior</positionTitle>
+		<fullName>Testov K. T.</fullName>
+		<experience>5</experience>
+		<skills>
+			<skill>HTML</skill>
+			<skill>SQL</skill>
+			<skill>JavaScript</skill>
+		</skills>
+	</candidate>
+	<candidate>
+		<positionTitle>Senior</positionTitle>
+		<fullName>Kylibin A. A.</fullName>
+		<experience>10</experience>
+		<skills>
+			<skill>HTML</skill>
+			<skill>SQL</skill>
+			<skill>JavaScript</skill>
+		</skills>
+	</candidate>
+	<candidate>
+		<positionTitle>Junior</positionTitle>
+		<fullName>Batienko T. T.</fullName>
+		<experience>1</experience>
+		<skills>
+			<skill>HTML</skill>
+			<skill>SQL</skill>
+			<skill>JavaScript</skill>
+		</skills>
+	</candidate>
+</candidatesList>
